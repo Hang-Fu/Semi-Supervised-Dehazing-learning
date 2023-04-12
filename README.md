@@ -3,12 +3,19 @@
 1.A spectral grouping-based deep learning model for haze removal of hyperspectral images, ISPRS 2022:
 https://github.com/SZU-AdvTech-2022/158-A-Spectral-Grouping-based-Deep-Learning-Model-for-Haze-Removal-of-Hyperspectral-Images
 ![image](https://user-images.githubusercontent.com/112471583/231408589-50f298ca-dd90-4a7a-a28d-f9a9be4ec801.png)
+2.FFA-Net: Feature Fusion Attention Network for Single Image Dehazing, AAAI 2020:
+https://github.com/zhilin007/FFA-Net
+![image](https://user-images.githubusercontent.com/112471583/231411424-0f5316de-8fdc-44c3-9d29-84d173a74d80.png)
 
 
 # Semi-Supervised Dehazing
 1.Semi-Supervised Domain Alignment Learning for Single Image Dehazing, IEEE TCYB 2022: 
 https://github.com/WeilanAnnn/SDA-GAN 
 ![image](https://user-images.githubusercontent.com/112471583/231406107-47220076-3d31-45d2-b651-abfc713ccf55.png)
+2.Semi-supervised single image dehazing, TIP 2020:
+https://github.com/Prevalenter/semi-dehazing
+![image](https://user-images.githubusercontent.com/112471583/231410968-dd5e21b6-431b-4645-983b-a0ef27d01c58.png)
+
 
 # Weakly Supervised Dehazing
 1.Thin cloud removal in optical remote sensing images based on generative adversarial networks and physical model of cloud distortion, ISPRS 2020:
