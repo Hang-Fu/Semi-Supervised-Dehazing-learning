@@ -23,7 +23,7 @@ https://github.com/Neooolee/CR-GAN-PM
 ![image](https://user-images.githubusercontent.com/112471583/231407640-2c15f0d9-b4d6-449a-9608-c9afa00a5849.png)
 
 2.RefineDNet: A Weakly Supervised Refinement Framework for Single Image Dehazing, TIP 2021:
-https://github.com/xiaofeng94/RefineDNet-for-dehazing
+https://github.com/xiaofeng94/RefineDNet-for-dehazing, https://github.com/E-LONER/RefineDNet
 ![image](https://user-images.githubusercontent.com/112471583/231407804-79eeeef3-396a-43fe-8e65-bc602caca2f1.png)
 
 3.DR-Net: Transmission Steered Single Image Dehazing Network with Weakly Supervised Refinement, 2017
